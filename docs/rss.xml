@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>pandahk 个人博客</title><link>https://pandahk.github.io</link><description>欢迎来到我的博客</description><copyright>pandahk 个人博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://pandahk.github.io</link></image><lastBuildDate>Tue, 03 Dec 2024 01:48:27 +0000</lastBuildDate><managingEditor>pandahk 个人博客</managingEditor><ttl>60</ttl><webMaster>pandahk 个人博客</webMaster><item><title>一为导航图标失效解决方案</title><link>https://pandahk.github.io/post/14.html</link><description>最近一为导航的图标接口被人盗刷，无法正常解析&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>pandahk 个人博客</title><link>https://pandahk.github.io</link><description>欢迎来到我的博客</description><copyright>pandahk 个人博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://pandahk.github.io</link></image><lastBuildDate>Tue, 03 Dec 2024 01:49:51 +0000</lastBuildDate><managingEditor>pandahk 个人博客</managingEditor><ttl>60</ttl><webMaster>pandahk 个人博客</webMaster><item><title>一为导航onenav采集站演示</title><link>https://pandahk.github.io/post/15.html</link><description>一为导航onenav采集站演示&#13;
+采集站地址：[采集站演示](https://demo.onenav.vip/)&#13;
+&#13;
+![8516](https://github.com/user-attachments/assets/03022e87-a2cb-4f4e-a6ef-e62ea76ecc0a)&#13;
+![3796](https://github.com/user-attachments/assets/031d9a59-448a-4a82-b4d1-f045ef062994)&#13;
+![11895](https://github.com/user-attachments/assets/9205bf41-ec81-4df9-adfc-00121e2b6099)&#13;
+。</description><guid isPermaLink="true">https://pandahk.github.io/post/15.html</guid><pubDate>Tue, 03 Dec 2024 01:49:30 +0000</pubDate></item><item><title>一为导航图标失效解决方案</title><link>https://pandahk.github.io/post/14.html</link><description>最近一为导航的图标接口被人盗刷，无法正常解析&#13;
 &#13;
 本站自建了一个接口，供大家使用&#13;
 &#13;
