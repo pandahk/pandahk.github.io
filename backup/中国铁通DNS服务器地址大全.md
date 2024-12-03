@@ -1,0 +1,1 @@
+`Gmeek-html<table class="table"><thead><tr><th>省市</th><th colspan="2">中国铁通DNS服务器IP大全</th></tr></thead><tbody><tr><td>广东铁通DNS</td><td>61.235.70.252</td><td>211.98.4.1</td></tr></tbody></table>`
