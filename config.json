@@ -24,6 +24,7 @@
     "needComment":1,
     "script":"<script>document.getElementById('cmButton').click();</script>",
     "allHead":"<script src='https://blog.meekdai.com/assets/GmeekVercount.js'></script>",
+    "allHead":"<script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?f87ef41db40fb2335af18710b5f314d0";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();</script>",
      "script":"<script src='https://blog.meekdai.com/assets/GmeekTOC.js'></script><script src='https://pandahk.github.io/backtotop.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "GMEEK_VERSION":"last"
 }
